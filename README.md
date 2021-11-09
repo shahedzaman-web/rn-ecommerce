@@ -10,3 +10,6 @@ Feature:
 5. Shopping cart
 6. Order summary
 7. Secure and easy in-app payments
+
+email: admin@gmail.com
+password: addmin1234
