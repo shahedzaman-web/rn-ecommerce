@@ -1,0 +1,44 @@
+
+{
+  "additionalUserInfo":  {
+    "isNewUser": true,
+    "providerId": "password"
+  },
+  "credential": null,
+  "operationType": "signIn",
+  "user":  {
+    "apiKey": "AIzaSyD1egTYT17sB5QjOaf5lU7QxcWCoOH0Ul0",
+    "appName": "[DEFAULT]",
+    "authDomain": "sz-rn-e-commerce-45ecf.firebaseapp.com",
+    "createdAt": "1632235019880",
+    "displayName": null,
+    "email": "shahedxxaman@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "lastLoginAt": "1632235019880",
+    "multiFactor":  {
+      "enrolledFactors":  []
+    },
+    "phoneNumber": null,
+    "photoURL": null,
+    "providerData":  [
+       {
+        "displayName": null,
+        "email": "shahedxxaman@gmail.com",
+        "phoneNumber": null,
+        "photoURL": null,
+        "providerId": "password",
+        "uid": "shahedxxaman@gmail.com"
+      }
+    ],
+    "redirectEventId": null,
+    "stsTokenManager":  {
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFlNTJiOGQ4NTk4N2U1OWRjYWM2MmJlNzg2YzcwZTAyMDcxN2I0MTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vc3otcm4tZS1jb21tZXJjZS00NWVjZiIsImF1ZCI6InN6LXJuLWUtY29tbWVyY2UtNDVlY2YiLCJhdXRoX3RpbWUiOjE2MzIyMzUwMjAsInVzZXJfaWQiOiJ2TURVeDhuWUtWWmxkNzcxdHNuSFpqaUdVYWsyIiwic3ViIjoidk1EVXg4bllLVlpsZDc3MXRzbkhaamlHVWFrMiIsImlhdCI6MTYzMjIzNTAyMCwiZXhwIjoxNjMyMjM4NjIwLCJlbWFpbCI6InNoYWhlZHh4YW1hbkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsic2hhaGVkeHhhbWFuQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.mbBxKKKU3Pkiu2GlbZnaVQkVCuyRtNNqkq0BvyjKXq3GUqUpBxOczW-6Z0PEZs5XIlM9iHkZ6wfTwwZDnJKaCPALsOfDUhumkf__XzDXZRwvC9kAd4TEWvFquFuFigE2AlADVkbvxDFZaVOwriBTBnZZEh52f82MS_kMuMKM0QiJNfFLE6mhUoysJAw1VPPqi9vJ_PNYPqe_gKNc3AIu9TOJIryrz8MgTRf-PRdPyhjoEKAGFQd5x5FpZds2tMAVJU5h9W40t6ClJDrFoqLAizmdFmnsKRTCFhHIMVj2XwxlwgM0mwY13jQO18_gSz_qogMw8mjPueR-JrgDvHE4ag",
+      "apiKey": "AIzaSyD1egTYT17sB5QjOaf5lU7QxcWCoOH0Ul0",
+      "expirationTime": 1632238619931,
+      "refreshToken": "ACzBnCis2UJhybMJ80JKqqitRBOV5XZxf8WTVMt0UI1pV27bmsFL1F8yrCSKvaGgjzmM8yC1SnJtVhgltnfuFXnmIspSa8xWJKvO9Es3F82K37pxxdbxaRR_TRu8mI10JvLwCVhI-9yNqa_L6RLde2P9dCGpc0ReSfWg7IaIkAZh9JTQv1rutaxry-SE5xyqDiybgmiQkNUptjQIxh5unY8ERbUlOd7hc7pHin3nA6z2Hg9hWPDcjMw",
+    },
+    "tenantId": null,
+    "uid": "vMDUx8nYKVZld771tsnHZjiGUak2"
+  }
+}
